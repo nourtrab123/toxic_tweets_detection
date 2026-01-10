@@ -1,0 +1,40 @@
+comment,toxicity_score,timestamp,is_toxic
+Tu es beau,31.635457277297974,2025-12-13 14:13:57.829276,
+beau,1.6104325652122498,2025-12-13 14:14:09.463557,
+belle,2.4230962619185448,2025-12-13 14:14:14.308309,
+mauche,9.687504172325134,2025-12-13 14:14:23.032654,
+moche,3.5427525639534,2025-12-13 14:14:29.319974,
+hell,98.3658254146576,2025-12-13 14:14:34.371747,
+quand je vois tes yeux je suis amoureux,37.02538013458252,2025-12-13 14:14:51.578867,
+quand je vois tes yeux je suis amoureux,37.02538013458252,2025-12-13 14:15:00.158446,
+quand je vois tes yeux je suis amoureux,37.02538013458252,2025-12-13 14:15:01.256405,
+tu es trop belle,38.800111413002014,2025-12-13 14:16:52.496114,
+tu es trop belle,38.800111413002014,2025-12-13 14:17:00.315918,
+tu es trop belle,38.800111413002014,2025-12-13 14:17:01.489256,
+tu es trop belle,38.800111413002014,2025-12-13 14:17:01.856981,
+tu es trop belle,38.800111413002014,2025-12-13 14:17:02.038591,
+tu es trop belle,38.800111413002014,2025-12-13 14:17:03.216418,
+bonjouuuur,3.1875021755695343,2025-12-13 15:23:31,
+je vais bien,21.46383225917816,2025-12-13 15:23:53,
+bonjour,3.7221532315015793,2025-12-13 15:26:20,False
+mort,2.4366166442632675,2025-12-13 15:28:37,False
+hell,98.3658254146576,2025-12-13 15:28:45,True
+tu est moche,55.77487349510193,2025-12-13 15:31:26,True
+je t'aime pas,41.788890957832336,2025-12-13 15:31:38,False
+amour,2.6458995416760445,2025-12-13 15:31:45,False
+"beau
+",1.6104325652122498,2025-12-13 15:31:55,False
+"e n'arrive vraiment pas à comprendre comment quelqu'un peut être aussi lamentablement incompétent et déconnecté de la réalité. Chaque fois que tu essaies de donner ton avis, c’est comme si tu cherchais délibérément à rendre les choses plus confuses et inutiles. Franchement, c’est impressionnant à quel point tu arrives à transformer une situation simple en un désastre total juste par ton incapacité chronique à réfléchir avant de parler. On dirait que tout ce que tu touches finit systématiquement par échouer, et pourtant tu continues à agir comme si tu étais une sorte d’expert dans tout, alors qu’en réalité tu es complètement dépassé par les événements. Tes idées sont non seulement irréalistes, mais elles démontrent une absence totale de logique et de bon sens, et c’est épuisant pour tout le monde autour de toi d’essayer de corriger tes erreurs encore et encore. Honnêtement, c’est presque incroyable de voir à quel point quelqu’un peut être si nuisible tout en restant persuadé d’être compétent. Si tu passais autant de temps à apprendre et à réfléchir qu’à parler pour ne rien dire, peut-être que les choses iraient mieux, mais à ce rythme, tu ne fais que continuer à frustrer et à agacer tous ceux qui ont le malheur de devoir collaborer avec toi.""",10.788164287805555,2025-12-13 15:33:27,False
+bonjouurr,3.5626430064439774,2025-12-13 15:39:09,False
+hell,98.3658254146576,2025-12-13 15:41:49,True
+"mort
+",2.4366166442632675,2025-12-13 16:05:45,False
+foutre,0.3450756194069981,2025-12-13 16:41:19,False
+belle,0.3267297055572271,2025-12-13 16:41:25,False
+mort,20.839203894138336,2025-12-13 16:41:31,False
+hell,99.77831244468688,2025-12-13 16:41:38,True
+what a loser,99.90922212600708,2025-12-13 16:41:54,True
+i really enjoy this application,0.0878769322298467,2025-12-13 16:42:06,False
+idiot,99.88786578178406,2025-12-13 16:42:21,True
+mort,20.839203894138336,2025-12-14 11:33:16,False
+You're a complete idiot,99.9144196510315,2025-12-14 11:33:43,True
